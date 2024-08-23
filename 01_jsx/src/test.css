@@ -1,0 +1,90 @@
+.bbb{
+    color: red;
+    background-color: burlywood;
+}
+.login-wrap{
+    width: 500px;
+    margin: 0 auto;
+    border: 1px solid #000;
+    padding: 50px;
+    border-radius: 10px;
+}
+.login-title{
+    margin: 0;
+    text-align: center;
+    padding-bottom: 20px;
+    font-size: 30px;
+    color: 30px;
+    color: tomato;
+}
+.login-wrap > .input-wrap{
+    padding: 10px;
+}
+.login-wrap > .input-wrap > *{
+    display: block;
+    padding: 5px;
+    width: 100%;
+}
+.login-wrap > .input-wrap > input {
+    border: none;
+    outline: none;
+    border-bottom: 2px solid #000;
+}
+.login-btn{
+    padding: 10px;
+}
+.login-btn > input{
+    width: 100%;
+    border: none;
+    outline: none;
+    padding: 15px;
+    background-color: tomato;
+    color: #fff;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 10px;
+}
+
+.join-wrap{
+    width: 500px;
+    margin: 0 auto;
+    border: 1px solid #000;
+    padding: 50px;
+    border-radius: 10px;
+}
+.join-wrap > h2 {
+    text-align: center;
+    color: tomato;
+    font-size: 25px;
+}
+.join-wrap > .input-wrap{
+    padding: 10px;
+}
+.join-wrap > .input-wrap > *{
+    display: block;
+    padding: 5px;
+    width: 100%;
+}
+.join-wrap > .input-wrap > input{
+    border: none;
+    outline: none;
+    border-bottom: 2px solid #000;
+}
+.join-btn{
+    padding: 10px;
+}
+.join-btn > input {
+    width: 100%;
+    border: none;
+    outline: none;
+    padding: 15px;
+    background-color: tomato;
+    color: #fff;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 10px;
+}
+
+.gender-wrap{
+    text-align: center;
+}
